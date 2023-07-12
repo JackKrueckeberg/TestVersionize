@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/JackKrueckeberg/TestVersionize/releases/tag/v1.1.0) (2023-7-12)
+
+### Features
+
+* something really awesome comming again and again ([b7a2e2f](https://www.github.com/JackKrueckeberg/TestVersionize/commit/b7a2e2fe5c8b7bb16c2a957ec7ec9666605a1ae8))
+
 <a name="1.0.0"></a>
 ## [1.0.0](https://www.github.com/JackKrueckeberg/TestVersionize/releases/tag/v1.0.0) (2023-7-12)
 
