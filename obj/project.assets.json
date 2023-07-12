@@ -12,13 +12,13 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\TestVersionize\\TestVersionize.csproj",
+      "projectUniqueName": "c:\\Dev\\TestVersionize\\TestVersionize.csproj",
       "projectName": "TestVersionize",
-      "projectPath": "C:\\Dev\\TestVersionize\\TestVersionize.csproj",
+      "projectPath": "c:\\Dev\\TestVersionize\\TestVersionize.csproj",
       "packagesPath": "C:\\Users\\jkrueckeberg\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\TestVersionize\\obj\\",
+      "outputPath": "c:\\Dev\\TestVersionize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
