@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="1.1.1"></a>
+## [1.1.1](https://www.github.com/JackKrueckeberg/TestVersionize/releases/tag/v1.1.1) (2023-7-12)
+
+### Bug Fixes
+
+* Li actually fixed it ([453600b](https://www.github.com/JackKrueckeberg/TestVersionize/commit/453600b665e87f4f2768d8b9eb991e3f25c7f751))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/JackKrueckeberg/TestVersionize/releases/tag/v1.1.0) (2023-7-12)
 
